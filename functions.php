@@ -12,7 +12,6 @@ $GLOBALS['CHILD_THEME_COLORS'] = array(
 	'success' => '2DC98D'
 );
 
-
 add_action( 'wp_enqueue_scripts', 'enqueue_parent_styles' );
 
 function enqueue_parent_styles() {
