@@ -8,6 +8,7 @@ $GLOBALS['CHILD_THEME_COLORS'] = array(
 	'primary-light' => 'ffc546',
 	'secondary-dark' => '0e7dc2',
 	'secondary-light' => 'e6e7e8',
+    'og-secondary-dark'=> 'a1bbe2',
 	'warning' => 'E31E39',
 	'success' => '2DC98D'
 );
@@ -41,7 +42,7 @@ function csomaster_mce4_options($init) {
 
     // change the number of rows in the grid if the number of colors changes
     // 8 swatches per row
-    $init['textcolor_rows'] = 1;
+    $init['textcolor_rows'] = 2;
 
     return $init;
 }
