@@ -7,7 +7,7 @@ Author URI: https://beech.agency/
 Template: cso-master
 
 Description: A theme for St Joseph's High School, Aberdeen
-Version: 0.1
+Version: 0.2
 Tested up to: 6.4
 Requires PHP: 8.1
 License: GNU General Public License v2 or later
@@ -32,10 +32,10 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 }
 
 :root {
-	--primary-dark : #117ec2;
+	--primary-dark : #131f4e;
 	--primary-light : #ffc546;
-	--secondary-dark : #a1bbe2;
-	--secondary-light : #E6E7E8;
+	--secondary-dark : #0e7dc2;
+	--secondary-light : #e6e7e8;
 	--warning : #E31E39;
 	--success : #2DC98D;
 

@@ -4,10 +4,10 @@ $GLOBALS['THEME_NAME'] = 'cso-master-child-st-josephs-aberdeen';
 $GLOBALS['CHILD_THEME_COLORS'] = array(
 	'white' => 'ffffff',
 	'black' => '000000',
-	'primary-dark' => '117ec2',
+	'primary-dark' => '131f4e',
 	'primary-light' => 'ffc546',
-	'secondary-dark' => 'a1bbe2',
-	'secondary-light' => 'E6E7E8',
+	'secondary-dark' => '0e7dc2',
+	'secondary-light' => 'e6e7e8',
 	'warning' => 'E31E39',
 	'success' => '2DC98D'
 );
